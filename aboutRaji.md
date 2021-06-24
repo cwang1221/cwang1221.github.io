@@ -4,7 +4,7 @@ has_children: true
 nav_order: 2
 ---
 
-## Raji
+# Raji
 ![Raji](https://raw.githubusercontent.com/cwang1221/cwang1221.github.io/main/images/raji-stories.png)
 
 
@@ -14,7 +14,7 @@ Raji is a Jira-like PoC (proof of competency :)) project. Which is simulating th
 
 Source code is [here](https://github.com/cwang1221/raji-app)
 
-#### Try out Raji
+## Try out Raji
 
 Open Raji [here](http://39.103.224.134:3000/), Following are users could be used to login, password is `Welcome1!`:
 - `david.lewis@raji.com`

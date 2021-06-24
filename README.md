@@ -1,37 +1,39 @@
-## Welcome to GitHub Pages
+---
+title: About Cong Wang
+has_children: false
+nav_order: 1
+---
 
-You can use the [editor on GitHub](https://github.com/cwang1221/cwang1221.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+## About Cong Wang
+I've worked in SAP as a **Frontend Developer** for 5 years. Besides daily development I also take the role of **Frontend Architect** for the whole product. Which requests me to take highlevel topics like UI strategy, UI integration, UI test automation improvement and so on. I'm also the **UX Advocate** in my team, to guide my colleagues on UX related topics.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+**To prove my ability, I applied a Clubhouse trial account and implement a similar website [Raji](http://39.103.224.134:3000/). Please give it a try!**
 
-### Markdown
+![Raji](https://raw.githubusercontent.com/cwang1221/cwang1221.github.io/main/images/raji-stories.png)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### My Characters
 
-```markdown
-Syntax highlighted code block
+#### Strong Coding Ability
+The main task of a developer is product delivery, which I'm really good at. Normally I could finished my tasks with **only 2/3 estimated points**. As a perfectionist I'm very strict to my code. I could finish the tasks quickly with high quality.
 
-# Header 1
-## Header 2
-### Header 3
+#### Problem Solving Ability
+I'm good at bugs locating and problems solving. When there's a critical UI issue, I'm always the most trustable one to solve it.
 
-- Bulleted
-- List
+#### Strong Study Ability
+I can achieve new skills in short time. Here's an example, in SAP I don't use much React. I started learning React in my spare time from May and finished the [**Raji**](http://39.103.224.134:3000/) project in **120 hours**.
 
-1. Numbered
-2. List
+#### Teamwork
+I like teamwork. Discussion could always bring value
+to the product. And I like help others to solve their problems and sharing my knowledge to help the team grow.
 
-**Bold** and _Italic_ and `Code` text
+#### Other Things
+In a team of 26 people, I was nominated as
+- SAP Catalyst in my team (2 nominations)
+- SAP Mini-Experts (3 nominations)
+- SAP Thought Leader (1 nomination)
 
-[Link](url) and ![Image](src)
-```
+These are also provements of my ability.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+#### About My City
+I'm located in Chengdu. Besides pandas and foods, Chengdu is very famous for the large storage of software telents. Which is attracting many global companies to open their office here, like SAP, Accenture, Oracle and so on. I believe Clubhouse is also willing to extend the office and business to the second largest market, China. Then hiring me will be a very good starting point. 
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/cwang1221/cwang1221.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.

@@ -7,7 +7,7 @@ nav_order: 1
 # About Me
 I've worked in SAP as a **Frontend Developer** for 5 years. Besides daily development I also take the role of **Frontend Architect** for the whole product. Which requests me to take highlevel topics like UI strategy, UI integration, UI test automation improvement and so on. I'm also the **UX Advocate** in my team, to guide my colleagues on UX related topics.
 
-**To prove my ability, I applied a Clubhouse trial account and implement a similar website [Raji](http://39.103.224.134:3000/). Please give it a try!**
+**To prove my ability, I applied a Clubhouse trial account and implement a similar website [Raji](https://cwang1221.github.io/docs/raji/raji.html). Please give it a try!**
 
 ![Raji](https://raw.githubusercontent.com/cwang1221/cwang1221.github.io/main/images/raji-stories.png)
 
@@ -20,7 +20,7 @@ The main task of a developer is product delivery, which I'm really good at. Norm
 I'm good at bugs locating and problems solving. When there's a critical UI issue, I'm always the most trustable one to solve it.
 
 ### Strong Study Ability
-I can achieve new skills in short time. Here's an example, in SAP I don't use much React. I started learning React in my spare time from May and finished the [**Raji**](http://39.103.224.134:3000/) project in **120 hours**.
+I can achieve new skills in short time. Here's an example, in SAP I don't use much React. I started learning React in my spare time from May and finished the [Raji](https://cwang1221.github.io/docs/raji/raji.html) project in **120 hours**.
 
 ### Teamwork
 I like teamwork. Discussion could always bring value

@@ -1,10 +1,10 @@
 ---
-title: My CV
+title: My Resume
 has_children: false
 nav_order: 2
 ---
 
 # My CV
 
-Please view my CV [here](https://cwang1221.github.io/online-cv/).
+Please view my resume [here](https://cwang1221.github.io/online-cv/).
 

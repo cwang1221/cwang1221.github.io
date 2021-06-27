@@ -15,14 +15,6 @@ When there are too many milestones, there's no horizontal scollbar on the Milest
 
 ![Milestone improvement](https://raw.githubusercontent.com/cwang1221/cwang1221.github.io/main/images/milestoneImprovement.png)
 
-## No Busy Indicator after Creation
-
-After creating a new object (e.g. story), there's no busy indicator on the page. User can only wait for a while to see the newly created object.
-
-There could be two better approaches:
-1. Showing a busy indicator after clicking the create button.
-2. Optimistic creation. When user clicks the create button, we will optimistically consider the request as success and render the newly created item immediately. If the request failed, we will then show an error message and remove the object from UI.
-
 ## Epic State Inconsistent
 On the Epics page, there are inconsistent terms (To Do, In Progress, Done v.s. Unstarted, Started, Done) for epic states. Which may confuse the user.
 

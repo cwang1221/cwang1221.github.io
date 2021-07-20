@@ -1,7 +1,8 @@
 ---
+layout: default
 title: Things for Improvement in Clubhouse
 parent: Raji
-has_children: false
+grand_parent: Projects
 nav_order: 3
 ---
 

@@ -1,7 +1,8 @@
 ---
+layout: default
 title: Concepts
 parent: Raji
-has_children: false
+grand_parent: Projects
 nav_order: 1
 ---
 

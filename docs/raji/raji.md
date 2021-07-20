@@ -1,4 +1,5 @@
 ---
+layout: default
 title: Raji
 parent: Projects
 has_children: true

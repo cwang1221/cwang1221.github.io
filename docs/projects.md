@@ -10,9 +10,9 @@ permalink: /projects
 
 These are projects I made in my daily work:
 
-- [Subscription Billing](https://www.sap.com/sea/products/subscription-billing.html)
+- [Subscription Billing](https://cwang1221.github.io/projects/sb)
 
 These are projects I made in my spare time:
 
-- Raji
+- [Raji](https://cwang1221.github.io/projects/raji)
 

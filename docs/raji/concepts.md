@@ -4,6 +4,7 @@ title: Concepts
 parent: Raji
 grand_parent: Projects
 nav_order: 1
+permalink: /projects/raji/concepts
 ---
 
 # Concepts

@@ -4,6 +4,7 @@ title: Things for Improvement in Clubhouse
 parent: Raji
 grand_parent: Projects
 nav_order: 3
+permalink: /projects/raji/clubhouseImprovement
 ---
 
 # Things for Improvement in Clubhouse

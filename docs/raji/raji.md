@@ -4,6 +4,7 @@ title: Raji
 parent: Projects
 has_children: true
 nav_order: 1
+permalink: /projects/raji
 ---
 
 # Raji

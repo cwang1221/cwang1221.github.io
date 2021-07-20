@@ -2,6 +2,7 @@
 layout: default
 title: My Resume
 nav_order: 3
+permalink: /cv
 ---
 
 # My Resume

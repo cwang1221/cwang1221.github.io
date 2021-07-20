@@ -24,6 +24,3 @@ These can serve as proof of my hard/soft skills.
 ## Available Working Hours
 If I got this remote job, my working hours could be any 8 hours between 17 pm - 11 am EST.
 
-## About My City
-I live in Chengdu, China. Besides pandas and foods, Chengdu is also famous for its vast software talent pool. This attracts many global software companies to open their offices here, such as SAP, Microsoft, Intel, Amazon, and Sony. I believe Clubhouse may consider extending the business to China, the second-largest economy in the world. Hiring me could be an excellent starting point. 
-

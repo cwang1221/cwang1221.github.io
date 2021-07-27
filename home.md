@@ -16,5 +16,5 @@ In a team of 25 people, I was nominated as
 These can serve as proof of my hard/soft skills.
 
 ## Available Working Hours
-For remote jobs, my working hours could be any 8 hours between 17 pm - 11 am EST.
+For remote jobs, my working hours could be any 8 hours between 6PM - 12AM ET.
 

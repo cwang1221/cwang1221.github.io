@@ -8,7 +8,7 @@ nav_order: 1
 
 # Raji
 
-Raji is a Jira-like PoC (proof of competency :)) project. Which is simulating the appearance and main functionalities of [Clubhouse](https://clubhouse.io/).
+Raji is a Jira-like PoC (proof of competency :)) project. Which is simulating the appearance and main functionalities of [Clubhouse](https://clubhouse.io/). I finished this project within only 120 hours.
 
 ![Raji](https://raw.githubusercontent.com/cwang1221/cwang1221.github.io/main/images/raji-stories.png)
 
